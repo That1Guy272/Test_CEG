@@ -1,8 +1,3 @@
 Gabs
 Zuhair
 hello
-
- 567a78a2a114db7d023ee0886bfceb3ae8cbd76a
->>>>>>> 26353328c0c15c490a6179cab38dfb9e8722bf1a
->>>>>>> 205163a7422a753bc0c061bfb3ded9fd51ab7533
->>>>>>> f6cac28e3d58af8ed15d5b7fb4ea42e929da007b
